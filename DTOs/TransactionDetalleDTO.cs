@@ -1,0 +1,15 @@
+﻿namespace ApiCriptoParcialI.DTOs
+{
+    public class TransactionDetalleDTO
+    {
+        public int Id { get; set; }
+        public string CryptoCode { get; set; }
+        public string Action { get; set; }
+        public decimal CryptoAmount { get; set; }
+        public decimal Money { get; set; }
+        public DateTime Datetime { get; set; }
+
+        public int ClienteId { get; set; }
+        public string ClientName { get; set; }
+    }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCriptoParcialI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55e30d592151eef54b964eb02214e2e8d2930475")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCriptoParcialI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCriptoParcialI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

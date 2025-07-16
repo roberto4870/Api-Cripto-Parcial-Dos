@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\dtos\\clientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:dtos\\clientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\dtos\\transactiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:dtos\\transactiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,8 +11,32 @@
       "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\dtos\\transactiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:dtos\\transactiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\dtos\\clientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:dtos\\clientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\dtos\\transactiondetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:dtos\\transactiondetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\dtos\\saldocriptodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:dtos\\saldocriptodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|c:\\programacioniii\\2doparcialprogramacion\\apicriptoparciali\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EE7D2-533E-4AE5-885A-B562E4E39709}|ApiCriptoParcialI.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,52 +58,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:37:30.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Controllers\\TransactionController.cs*",
-              "RelativeToolTip": "Controllers\\TransactionController.cs*",
-              "ViewState": "AgIAAG8AAAAAAAAAAAA7wDQAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T19:09:48.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
               "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T19:08:56.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TransactionDTOs.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\DTOs\\TransactionDTOs.cs",
               "RelativeDocumentMoniker": "DTOs\\TransactionDTOs.cs",
               "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\DTOs\\TransactionDTOs.cs",
               "RelativeToolTip": "DTOs\\TransactionDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:52:41.418Z",
               "EditorCaption": ""
@@ -112,49 +103,72 @@
               "RelativeDocumentMoniker": "DTOs\\ClienteDTOs.cs",
               "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\DTOs\\ClienteDTOs.cs",
               "RelativeToolTip": "DTOs\\ClienteDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:52:08.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
               "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Models\\AppDbContext.cs",
               "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:37:05.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Models\\Transaction.cs",
               "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Models\\Transaction.cs",
               "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA3wA4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:31:38.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "TransactionDetalleDTO.cs",
+              "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\DTOs\\TransactionDetalleDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\TransactionDetalleDTO.cs",
+              "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\DTOs\\TransactionDetalleDTO.cs",
+              "RelativeToolTip": "DTOs\\TransactionDetalleDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:46:26.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaldoCriptoDTO.cs",
+              "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\DTOs\\SaldoCriptoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\SaldoCriptoDTO.cs",
+              "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\DTOs\\SaldoCriptoDTO.cs",
+              "RelativeToolTip": "DTOs\\SaldoCriptoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:59:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
               "ToolTip": "C:\\ProgramacionIII\\2doParcialProgramacion\\ApiCriptoParcialI\\Models\\Cliente.cs",
               "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:27:33.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T15:27:33.634Z"
             }
           ]
         }
